@@ -22,6 +22,7 @@ Frontend: Bootstrap 5
 
  Instalasi Cepat
 Clone & Install:
+untuk login silahkan register dulu
 
 Bash
 git clone https://github.com/Update97/UjianIT
