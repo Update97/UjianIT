@@ -1,0 +1,14 @@
+.main-footer {
+    background: #fff;
+    border-top: 1px solid #dee2e6;
+    padding: 15px 20px;
+    color: #869099;
+    width: 100%;
+    /* Mencegah footer naik saat konten wrapper memanjang */
+    flex-shrink: 0; 
+}
+
+/* Memastikan wrapper mengambil sisa ruang yang ada */
+.wrapper.flex-grow-1 {
+    flex: 1 0 auto;
+}
