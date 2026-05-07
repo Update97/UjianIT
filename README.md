@@ -19,13 +19,13 @@ Backend: Laravel 11 (PHP 8.3+)
 
 Database: SQLite / MySQL
 
-Frontend: Bootstrap 5 & AdminLTE 3
+Frontend: Bootstrap 5 
 
 ⚙️ Instalasi Cepat
 Clone & Install:
 
 Bash
-git clone https://github.com/YogaAnt97/nama-repo.git
+git clone https://github.com/Update97/UjianIT
 composer install
 Environment:
 
