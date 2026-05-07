@@ -1,9 +1,8 @@
-Tentu, ini versi README.md yang lebih singkat, padat, dan langsung ke inti untuk repositori GitHub kamu:
 
-📦 Inventory Management - Laravel 2
+ Inventory Management - Laravel 2
 Aplikasi manajemen data produk sederhana yang dibangun menggunakan framework Laravel 12
 
-🚀 Fitur
+ Fitur
 CRUD Produk: Kelola data produk (Tambah, Detail, Edit, Hapus).
 
 Upload Gambar: Fitur unggah foto produk ke server.
@@ -14,14 +13,14 @@ Kode Otomatis: Generate kode produk secara otomatis (ex: A001).
 
 Konfirmasi Alert: Proteksi penghapusan data dengan konfirmasi JavaScript.
 
-🛠️ Tech Stack
+ Tech Stack
 Backend: Laravel 11 (PHP 8.3+)
 
 Database: SQLite / MySQL
 
 Frontend: Bootstrap 5 
 
-⚙️ Instalasi Cepat
+ Instalasi Cepat
 Clone & Install:
 
 Bash
