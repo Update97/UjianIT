@@ -16,7 +16,7 @@ Konfirmasi Alert: Proteksi penghapusan data dengan konfirmasi JavaScript.
  Tech Stack
 Backend: Laravel 11 (PHP 8.3+)
 
-Database: SQLite / MySQL
+Database: MySQL
 
 Frontend: Bootstrap 5 
 
